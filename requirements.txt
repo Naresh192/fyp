@@ -1,4 +1,3 @@
 matplotlib
 keras
 tensorflow
-keras.layers
