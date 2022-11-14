@@ -1,4 +1,4 @@
 matplotlib
 keras
 tensorflow
-keras.layers.embeddings
+keras.layers
